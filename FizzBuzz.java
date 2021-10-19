@@ -31,6 +31,7 @@ public class FizzBuzz {
             return multOf5Word;
         }
         return "" + number;
+        // return Integer.toString(number);
     }
 
 }
